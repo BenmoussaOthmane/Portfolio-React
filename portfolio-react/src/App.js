@@ -1,8 +1,10 @@
 import React from "react";
+import { Navbar } from "./components/Index";
+
 function App() {
   return (
     <div className="App">
-      <h1>Hi Othmane</h1>
+      <Navbar />
     </div>
   );
 }
